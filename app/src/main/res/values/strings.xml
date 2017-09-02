@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aprendiendo2</string>
+    <string name="txt1">Linear Layout vertical</string>
+    <string name="txt2">Linear Layout Horizontal</string>
+    <string name="txt3">Relative Layout</string>
+    <string name="txt4">Table Layout</string>
+    <string name="txt5">Frame Layout</string>
+    <string name="txt6">List View</string>
+    <string name="txt7">Grid View</string>
+</resources>
